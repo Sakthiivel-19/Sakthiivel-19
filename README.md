@@ -59,8 +59,6 @@ fun_fact: "I learn best by building things 🚀"
 - 🎓 Currently a college student exploring the intersection of AI/ML and web development
 - 💻 Building applications with React, FastAPI, Node.js & REST APIs
 - 🧠 Strengthening problem-solving skills through Data Structures & Algorithms
-- 🗄️ Working with PostgreSQL & MySQL
-- 🛠️ Using Git, GitHub, VS Code & Postman
 - 🚀 Interested in building scalable real-world applications
 
 <br/>
