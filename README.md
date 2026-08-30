@@ -28,7 +28,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=550&lines=Building+intelligent+solutions+with+AI;AI%2FML+Enthusiast+%26+Explorer;Full+Stack+Developer;Problem+Solver+%26+Tech+Builder;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=550&lines=Building+modern+web+applications;Full+Stack+Developer;Problem+Solver+%26+Tech+Builder;Passionate+Software+Developer;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing Animation" />
 </a>
 
 </div>
@@ -41,7 +41,7 @@
 
 ```yaml
 name: SAKTHIVEL R
-role: College Student | AI/ML Enthusiast & Full Stack Developer
+role: College Student | Full Stack Developer & Problem Solver
 location: Chennai, India
 
 current_focus:
@@ -56,12 +56,11 @@ learning:
 fun_fact: "I learn best by building things 🚀"
 ```
 
-- 🤖 Exploring Machine Learning, Deep Learning, NLP & Generative AI
 - 💻 Building applications with React, FastAPI, Node.js & REST APIs
 - 🧠 Strengthening problem-solving skills through Data Structures & Algorithms
 - 🗄️ Working with PostgreSQL & MySQL
 - 🛠️ Using Git, GitHub, VS Code & Postman
-- 🚀 Interested in building real-world AI-powered applications
+- 🚀 Interested in building scalable real-world applications
 
 <br/>
 
