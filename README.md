@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- ==================== ANIMATED HEADER ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=220&section=header&text=Building%20intelligent%20solutions%20with%20AI%20%26%20modern%20web%20technologies&fontSize=22&fontAlignY=38&desc=SAKTHIVEL%20R%20%7C%20AI%2FML%20Enthusiast%20%26%20Full%20Stack%20Developer&descFontSize=16&descAlignY=60&fontColor=ffffff" width="100%" alt="Header Banner" />
-
 # Hi 👋, I'm SAKTHIVEL R
 
 **AI/ML Enthusiast & Full Stack Developer**  
@@ -191,7 +188,3 @@ A clean, concise 1-2 sentence description explaining the purpose of the project 
 
 <br/>
 
-<!-- ==================== ANIMATED FOOTER ==================== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=140&section=footer&text=🚀%20Building.%20Learning.%20Improving.&fontSize=18&fontAlignY=62&desc=Thanks%20for%20visiting%20my%20profile!&descFontSize=14&descAlignY=80&fontColor=ffffff" width="100%" alt="Footer Banner" />
-</div>
