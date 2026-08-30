@@ -189,13 +189,15 @@ A clean, concise 1-2 sentence description explaining the purpose of the project 
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sakthiivel-19&show_icons=true&theme=default&bg_color=ffffff&title_color=0969da&text_color=1f2328&icon_color=0969da&border_color=d0d7de&hide_border=false&count_private=true" alt="Sakthivel's GitHub Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakthiivel-19&theme=default" alt="Sakthivel's GitHub Stats" />
       </td>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthiivel-19&layout=compact&theme=default&bg_color=ffffff&title_color=0969da&text_color=1f2328&border_color=d0d7de&hide_border=false" alt="Top Languages" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sakthiivel-19&theme=default" alt="Top Languages" />
       </td>
     </tr>
   </table>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Sakthiivel-19&theme=default&border_radius=4.5" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
