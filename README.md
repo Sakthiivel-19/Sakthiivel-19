@@ -171,17 +171,6 @@ A clean, concise 1-2 sentence description explaining the purpose of the project 
 
 ---
 
-### 🏆 Certifications
-
-- 📘 **Introduction to Machine Learning** — *Kaggle (2026)*
-- 🤖 **Introduction to Generative AI** — *Google Cloud (2026)*
-- 📊 **GenAI-Powered Data Analytics Job Simulation** — *Tata Forage (2026)*
-- 🐍 **Python Essentials** — *Cisco Networking Academy (2026)*
-
-<br/>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
