@@ -49,20 +49,12 @@ location: Chennai, India
 current_focus:
   - Machine Learning
   - Data Structures & Algorithms
-  - Full Stack Development
+  - System design
 
 learning:
   - Deep Learning
-  - Generative AI
-  - NLP
   - Backend Development
 
-building:
-  - Intelligent applications
-  - Practical full-stack solutions
-  - AI-powered projects
-
-goal: Build real-world solutions using AI and modern web technologies
 fun_fact: "I learn best by building things 🚀"
 ```
 
