@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=120&section=header" width="100%" alt="Header Wave" />
+
 # Hi 👋, I'm SAKTHIVEL R
 
 **AI/ML Enthusiast & Full Stack Developer**  
@@ -186,5 +188,7 @@ A clean, concise 1-2 sentence description explaining the purpose of the project 
   </p>
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=100&section=footer" width="100%" alt="Footer Wave" />
+</div>
 
