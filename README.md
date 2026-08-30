@@ -205,7 +205,7 @@ A clean, concise 1-2 sentence description explaining the purpose of the project 
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakthiivel-19&theme=github-light&line=0969da&point=1f2328&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/0969da/Sakthiivel-19" alt="Sakthivel's GitHub Contribution Graph" width="100%" />
 </div>
 
 <br/>
