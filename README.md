@@ -191,12 +191,10 @@ A clean, concise 1-2 sentence description explaining the purpose of the project 
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakthiivel-19&theme=default" alt="Sakthivel's GitHub Stats" />
       </td>
       <td align="center" valign="middle">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sakthiivel-19&theme=default" alt="Top Languages" />
+        <img src="https://streak-stats.demolab.com?user=Sakthiivel-19&theme=default&border_radius=4.5" alt="GitHub Streak Stats" />
       </td>
     </tr>
   </table>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Sakthiivel-19&theme=default&border_radius=4.5" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
