@@ -41,7 +41,7 @@
 
 ```yaml
 name: SAKTHIVEL R
-role: College Student | Full Stack Developer & Problem Solver
+role: College Student | AI/ML Enthusiast & Full Stack Developer
 location: Chennai, India
 
 current_focus:
