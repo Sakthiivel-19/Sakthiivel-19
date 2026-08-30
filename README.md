@@ -193,7 +193,11 @@ A clean, concise 1-2 sentence description explaining the purpose of the project 
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/0969da/Sakthiivel-19" alt="Sakthivel's GitHub Contribution Graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sakthiivel-19/Sakthiivel-19/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sakthiivel-19/Sakthiivel-19/output/github-contribution-grid-snake.svg" />
+    <img alt="Sakthivel's GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Sakthiivel-19/Sakthiivel-19/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </div>
 
 <br/>
