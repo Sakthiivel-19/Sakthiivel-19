@@ -100,44 +100,6 @@ fun_fact: "I learn best by building things 🚀"
 
 ---
 
-### 🎯 Currently Focused On
-
-<table align="center" width="100%">
-  <tr>
-    <td width="33.3%" align="center" valign="top">
-      <h4>🤖 AI / ML</h4>
-      <p>
-        Machine Learning<br/>
-        Deep Learning<br/>
-        NLP<br/>
-        Generative AI
-      </p>
-    </td>
-    <td width="33.3%" align="center" valign="top">
-      <h4>💻 Development</h4>
-      <p>
-        Full Stack Development<br/>
-        REST APIs<br/>
-        Backend Development<br/>
-        Database Systems
-      </p>
-    </td>
-    <td width="33.3%" align="center" valign="top">
-      <h4>🧠 Problem Solving</h4>
-      <p>
-        Data Structures<br/>
-        Algorithms<br/>
-        Problem Solving<br/>
-        Continuous Learning
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
 ### 📌 Featured Projects
 
 <div align="center">
