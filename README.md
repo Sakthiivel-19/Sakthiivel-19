@@ -25,6 +25,12 @@
   </a>
 </p>
 
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=550&lines=Building+intelligent+solutions+with+AI;AI%2FML+Enthusiast+%26+Explorer;Full+Stack+Developer;Problem+Solver+%26+Tech+Builder;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing Animation" />
+</a>
+
 </div>
 
 <br/>
