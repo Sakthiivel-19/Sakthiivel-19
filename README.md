@@ -70,7 +70,7 @@ fun_fact: "I learn best by building things 🚀"
 - 💻 Building applications with React, FastAPI, Node.js & REST APIs
 - 🧠 Strengthening problem-solving skills through Data Structures & Algorithms
 - 🗄️ Working with PostgreSQL & MySQL
-- 🛠️ Using Git, GitHub, Docker, VS Code & Postman
+- 🛠️ Using Git, GitHub, VS Code & Postman
 - 🚀 Interested in building real-world AI-powered applications
 
 <br/>
@@ -98,7 +98,7 @@ fun_fact: "I learn best by building things 🚀"
 #### 🔧 Tools & Platforms
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux&theme=light" alt="Tools & Platforms" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=light" alt="Tools & Platforms" />
   </a>
 </p>
 
