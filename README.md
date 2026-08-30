@@ -66,7 +66,6 @@ goal: Build real-world solutions using AI and modern web technologies
 fun_fact: "I learn best by building things 🚀"
 ```
 
-- 🎓 Pursuing B.E. in Artificial Intelligence & Machine Learning
 - 🤖 Exploring Machine Learning, Deep Learning, NLP & Generative AI
 - 💻 Building applications with React, FastAPI, Node.js & REST APIs
 - 🧠 Strengthening problem-solving skills through Data Structures & Algorithms
