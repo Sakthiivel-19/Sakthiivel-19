@@ -2,6 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=120&section=header" width="100%" alt="Header Wave" />
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=550&lines=Building+modern+web+applications;Full+Stack+Developer;Problem+Solver+%26+Tech+Builder;Passionate+Software+Developer;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing Animation" />
+</a>
+
+<br/>
+
 <!-- ==================== SOCIAL / CONTACT BADGES ==================== -->
 <p align="center">
   <a href="https://linkedin.com/in/sakthivelr19/" target="_blank">
@@ -24,12 +30,6 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
 </p>
-
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=550&lines=Building+modern+web+applications;Full+Stack+Developer;Problem+Solver+%26+Tech+Builder;Passionate+Software+Developer;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing Animation" />
-</a>
 
 </div>
 
