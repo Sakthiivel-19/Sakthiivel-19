@@ -77,28 +77,32 @@ fun_fact: "I learn best by building things 🚀"
 
 ---
 
+<div align="center">
+
 ### 🛠️ Tech Stack
 
 #### 💻 Languages & Web
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,html,css,react&theme=light" alt="Languages & Web Stack" />
   </a>
 </p>
 
 #### ⚙️ Backend & Database
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mysql&theme=light" alt="Backend & Database Stack" />
   </a>
 </p>
 
 #### 🔧 Tools & Platforms
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux&theme=light" alt="Tools & Platforms" />
   </a>
 </p>
+
+</div>
 
 <br/>
 
