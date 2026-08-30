@@ -2,13 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=120&section=header" width="100%" alt="Header Wave" />
 
-# Hi 👋, I'm SAKTHIVEL R
-
-**AI/ML Enthusiast & Full Stack Developer**  
-📍 Chennai, India • 🎓 B.E. Artificial Intelligence & Machine Learning
-
-<br/>
-
 <!-- ==================== SOCIAL / CONTACT BADGES ==================== -->
 <p align="center">
   <a href="https://linkedin.com/in/sakthivelr19/" target="_blank">
